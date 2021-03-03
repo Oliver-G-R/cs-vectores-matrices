@@ -1,0 +1,16 @@
+E:\Documents\Job\C#\Vectores y matrices\bin\Debug\net5.0\Vectores y matrices.exe
+E:\Documents\Job\C#\Vectores y matrices\bin\Debug\net5.0\Vectores y matrices.deps.json
+E:\Documents\Job\C#\Vectores y matrices\bin\Debug\net5.0\Vectores y matrices.runtimeconfig.json
+E:\Documents\Job\C#\Vectores y matrices\bin\Debug\net5.0\Vectores y matrices.runtimeconfig.dev.json
+E:\Documents\Job\C#\Vectores y matrices\bin\Debug\net5.0\Vectores y matrices.dll
+E:\Documents\Job\C#\Vectores y matrices\bin\Debug\net5.0\ref\Vectores y matrices.dll
+E:\Documents\Job\C#\Vectores y matrices\bin\Debug\net5.0\Vectores y matrices.pdb
+E:\Documents\Job\C#\Vectores y matrices\obj\Debug\net5.0\Vectores y matrices.csprojAssemblyReference.cache
+E:\Documents\Job\C#\Vectores y matrices\obj\Debug\net5.0\Vectores y matrices.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\Job\C#\Vectores y matrices\obj\Debug\net5.0\Vectores y matrices.AssemblyInfoInputs.cache
+E:\Documents\Job\C#\Vectores y matrices\obj\Debug\net5.0\Vectores y matrices.AssemblyInfo.cs
+E:\Documents\Job\C#\Vectores y matrices\obj\Debug\net5.0\Vectores y matrices.csproj.CoreCompileInputs.cache
+E:\Documents\Job\C#\Vectores y matrices\obj\Debug\net5.0\Vectores y matrices.dll
+E:\Documents\Job\C#\Vectores y matrices\obj\Debug\net5.0\ref\Vectores y matrices.dll
+E:\Documents\Job\C#\Vectores y matrices\obj\Debug\net5.0\Vectores y matrices.pdb
+E:\Documents\Job\C#\Vectores y matrices\obj\Debug\net5.0\Vectores y matrices.genruntimeconfig.cache
