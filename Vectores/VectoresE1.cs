@@ -34,11 +34,9 @@ namespace Vectores1
         public void mostrarRegistro()
         {
             Console.WriteLine("------- El registro se a guardado correctamente -------");
-            int numR = 1;
             for (var i = 0; i < nombre.Length; i++)
             {
-                numR += i;
-                Console.WriteLine("\n Registro No. " + numR);
+                Console.WriteLine($"\n Registro No. ({i + 1})");
 
                 Console.Write("\n Nombre: " + nombre[i]);
 
