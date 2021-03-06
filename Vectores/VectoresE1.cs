@@ -9,6 +9,8 @@ namespace Vectores1
         private string[] correo;
         public void Registro()
         {
+            Console.Clear();
+
             Console.Write("\nIngresa la cantidad de personas a registrar: ");
             cantidadRegistro = int.Parse(Console.ReadLine());
 

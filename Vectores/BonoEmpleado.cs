@@ -8,6 +8,8 @@ namespace Vectores2
         private int[] tiempoTrabajando;
         public void registroEmpleado()
         {
+            Console.Clear();
+
             Console.Write("Cantidad de empleados: ");
             cantidadARegistrar = int.Parse(Console.ReadLine());
 

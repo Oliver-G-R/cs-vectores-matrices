@@ -11,6 +11,8 @@ namespace Matrices2
 
         public void agregarVideo()
         {
+            Console.Clear();
+
             Console.Write("\nCantidad de autores a registrar: ");
             cantidadAutor = int.Parse(Console.ReadLine());
 

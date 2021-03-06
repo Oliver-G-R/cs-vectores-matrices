@@ -17,6 +17,7 @@ namespace Matrices3
 
             nombreProducto = new string[cantidadClientes][];
             costo = new int[cantidadClientes][];
+            total = new int[cantidadClientes];
 
 
             for (int i = 0; i < cantidadClientes; i++)
@@ -24,7 +25,6 @@ namespace Matrices3
                 Console.Write($"Cantidad de prodcutos del cliente ({i + 1}): ");
                 cantidadProductos = int.Parse(Console.ReadLine());
 
-                /*  total = new int[i]; */
                 nombreProducto[i] = new string[cantidadProductos];
                 costo[i] = new int[cantidadProductos];
 
@@ -35,7 +35,7 @@ namespace Matrices3
 
                     Console.Write("Precio: ");
                     costo[i][f] = int.Parse(Console.ReadLine());
-                    /*   total[i] += costo[i][f]; */
+                    total[i] += costo[i][f];
                 }
             }
         }
@@ -45,18 +45,16 @@ namespace Matrices3
             for (int i = 0; i < cantidadClientes; i++)
             {
                 Console.WriteLine($"\nCompra del cliente ({i + 1})");
+
                 Console.WriteLine("---- Su compra ----");
                 for (int f = 0; f < nombreProducto[i].Length; f++)
                 {
                     Console.Write("\nNombre del prodcuto: " + nombreProducto[i][f]);
-                    Console.Write("\nPrecio: " + costo[i][f]/*  + "Total a pagar" + total[i] */);
+                    Console.Write("\nPrecio: " + costo[i][f]);
                 }
+                Console.WriteLine("\nTotal: " + total[i]);
             }
         }
 
-        public void sumaCantidad()
-        {
-
-        }
     }
 }
